@@ -17,19 +17,19 @@ const GlobalStyle = createGlobalStyle`
 export default GlobalStyle;
 
 export const theme1 = {
-  primary: '#ff0198',
-  secondary: '#01c1d6',
-  danger: '#eb238e',
-  light: '#f4f4f4',
-  dark: '#222'
+  primary: '#7F9172',
+  secondary: '#C9B1BD',
+  danger: '#B49594',
+  light: '#D5DFE5',
+  dark: '#567568'
 }
 
 export const theme2 = {
-  primary: '#6e27c5',
-  secondary: '#ffb617',
-  danger: '#f16623',
-  light: '#f4f4f4',
-  dark: '#222'
+  primary: '#E4B7E5',
+  secondary: '#B288C0',
+  danger: '#7E5A9B',
+  light: '#63458A',
+  dark: '#9A48D0'
 }
 
 export const Button = styled.button`
